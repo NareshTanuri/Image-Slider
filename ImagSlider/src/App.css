@@ -1,0 +1,18 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: var(--main-yellow);
+  color: var(--clr-grey-1);
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+.flex {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item {
+    padding: 1rem;
+    border: 1px black solid;
+}
